@@ -27,7 +27,7 @@
                 <tr>
                     <td>1</td>
                     <td>03-03-2020</td>
-                    <td> <a href="2020.03.03"> JavaScript </a> </td>
+                    <td> <a href="2020.03.03/index.php"> JavaScript </a> </td>
                 </tr>
             </tbody>
 </body>
