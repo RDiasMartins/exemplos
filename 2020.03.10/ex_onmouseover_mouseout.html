@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <title> Exercício On MouseOver </title>
+        <script>
+            function aciona_mouse(valor){
+                document.getElementById("msg").innerHTML=valor;
+            }
+        </script>
+    </head>
+    <body>
+        <table  border='1'
+            onmouseover="aciona_mouse('Entrei na tabela');"
+            onmouseout="aciona_mouse('Sai da tabela');"/>
+            <tr>
+                <th> Titulo 1 </th>
+                <th> Titulo 2 </th>
+                <th> Titulo 3 </th>
+            </tr>
+            <tr>
+                <td> Linha 1 </td>
+                <td> Linha 2 </td>
+                <td> Linha 3 </td>
+            </tr>
+        </table>
+
+        <div id="msg"></div>
+    </body>
+</html>
