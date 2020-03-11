@@ -34,6 +34,11 @@
                         <td>10-03-2020</td>
                         <td> <a href="2020.03.10/index.php"> Gatilhos JS </a> </td>
                     </tr>
+					<tr>
+						<td>3</td>
+						<td>11-03-2020</td>
+						<td> <a href="2020.03.11/Manip_ElementosDOM/Exemplo1.html"> Manip. Elementos DOM </a> </td>
+					</tr>
                 </tbody>
     </body>
 </html>
